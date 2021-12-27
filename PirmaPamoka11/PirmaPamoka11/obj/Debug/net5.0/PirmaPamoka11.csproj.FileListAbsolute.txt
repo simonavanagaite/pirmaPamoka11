@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\bin\Debug\net5.0\PirmaPamoka11.exe
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\bin\Debug\net5.0\PirmaPamoka11.deps.json
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\bin\Debug\net5.0\PirmaPamoka11.runtimeconfig.json
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\bin\Debug\net5.0\PirmaPamoka11.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\bin\Debug\net5.0\PirmaPamoka11.dll
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\bin\Debug\net5.0\ref\PirmaPamoka11.dll
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\bin\Debug\net5.0\PirmaPamoka11.pdb
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\obj\Debug\net5.0\PirmaPamoka11.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\obj\Debug\net5.0\PirmaPamoka11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\obj\Debug\net5.0\PirmaPamoka11.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\obj\Debug\net5.0\PirmaPamoka11.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\obj\Debug\net5.0\PirmaPamoka11.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\obj\Debug\net5.0\PirmaPamoka11.dll
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\obj\Debug\net5.0\ref\PirmaPamoka11.dll
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\obj\Debug\net5.0\PirmaPamoka11.pdb
+C:\Users\Lenovo\Documents\CodeAcademy\PirmaPamoka11\PirmaPamoka11\PirmaPamoka11\obj\Debug\net5.0\PirmaPamoka11.genruntimeconfig.cache
